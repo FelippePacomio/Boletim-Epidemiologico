@@ -1,0 +1,186 @@
+body {
+    background-color: white;
+    margin: 0;
+}
+
+#title {
+    color: rgb(31, 62, 145);
+    display: flex;
+    justify-content: center;
+    margin-top: 3%;
+    margin-left: 0;
+    margin-bottom: 0;
+    margin-right: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+#subtitle {
+    color: rgb(31, 62, 145);
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+#text {
+    color: black;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#text2 {
+    color: white;
+    display: flex;
+    justify-content: start;
+    text-align: start;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.testes {
+    display: flex;
+    color: white;
+    justify-content: center;
+    margin-left: 2%;
+    flex-direction: row;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: large;
+    gap: 30px;
+}
+
+#valor1 {
+    background-color: rgb(0, 172, 234);
+    padding: 21px;
+    border-radius: 12px;
+    width: 230px;
+    text-align: start;
+}
+
+
+#valor2 {
+    padding: 10px;
+    border-radius: 12px;
+    padding-bottom: 3.5px;
+    margin-right: 12%;
+    width: 110px;
+    text-align: center;
+    position: absolute;
+    font-size: 55px;
+}
+
+#obitos {
+    background-color: rgb(46, 53, 63);
+    gap: 10%;
+    padding: 21px;
+    border-radius: 12px;
+    width: 230px;
+}
+
+#valor7 {
+    padding: 10px;
+    border-radius: 12px;
+    padding-bottom: 3.5px;
+    margin-left: 33%;
+    width: 110px;
+    text-align: center;
+    position: absolute;
+    font-size: 55px;
+}
+
+#valor3 {
+    background-color: rgb(1, 168, 63);
+    padding: 21px;
+    border-radius: 12px;
+    width: 230px;
+    text-align: start;
+}
+
+#covidpositivo {
+    background-color: rgb(255, 83, 21);
+    gap: 10%;
+    padding: 21px;
+    border-radius: 12px;
+    width: 230px;
+}
+
+#valor4 {
+    padding: 16px;
+    border-radius: 12px;
+    padding-bottom: 3.5px;
+    margin-right: 12%;
+    width: 110px;
+    text-align: center;
+    position: absolute;
+    font-size: 55px;
+}
+
+#valor8 {
+    padding: 21px;
+    border-radius: 12px;
+    margin-left: 33.5%;
+    width: 110px;
+    text-align: center;
+    position: absolute;
+    font-size: 55px;
+}
+
+#valor5 {
+    background-color: rgb(251, 52, 71);
+    padding: 21px;
+    border-radius: 12px;
+    width: 230px;
+    text-align: start;
+}
+
+#valor6 {
+    padding: 21px;
+    border-radius: 12px;
+    padding-bottom: 3.5px;
+    margin-right: 12%;
+    width: 110px;
+    text-align: center;
+    position: absolute;
+    font-size: 55px;
+}
+
+#suspeitoscovid {
+    background-color: rgb(188, 55, 13);
+    gap: 10%;
+    padding: 21px;
+    border-radius: 12px;
+    width: 230px;
+}
+
+#valor9 {
+    padding: 21px;
+    border-radius: 12px;
+    margin-left: 33.5%;
+    width: 110px;
+    text-align: center;
+    position: absolute;
+    font-size: 55px;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    display: flex;
+    bottom: 0;
+    width: 100%;
+    padding: 20px;
+    margin: 0;
+    position: absolute;
+    justify-content: center;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    box-shadow: 0 0 10px blue
+}
